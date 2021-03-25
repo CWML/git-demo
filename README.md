@@ -1,6 +1,9 @@
-# git-demo readme file
+# Git-demo README File
 
-### what should go in a project-level readme file?
+### What should go in a project-level readme file?
+* Details that are relevant to your project. Either to your team, yourself, or the larger public - this depends on the intended use and audience of your repository
+
+### Details that might be relevant to your project:
 * Project name
 * Project description
 * Relevant data types
